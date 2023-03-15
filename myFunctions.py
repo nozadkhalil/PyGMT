@@ -3,7 +3,6 @@
 
 import os
 import sys
-import shutil
 import numpy as np
 sys.path.append('path to directory that this files are saved')
 import Converts
