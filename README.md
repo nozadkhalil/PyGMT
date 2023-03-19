@@ -1,5 +1,5 @@
 # PyGMT
-This is not a project. I just store my own GMT-scripts here to be used by anyone who needs.
+This is not a project. I just store scripts I wrot in PyGMT to be used by anyone who is interested.
 
 List of required libraries; PyGmt, numpy, geopy
 
